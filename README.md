@@ -1,4 +1,4 @@
-# -cmpe255-spring19-lab6
+cmpe255-spring19-lab6
 # Linear Regression
 
 Recently, the annual number of driver deaths per 100,000 for the selected age groups was as follows:
